@@ -6,5 +6,5 @@ Also , both model were deployed using TensorFlow Serving
 
 
 
-# Dataset and other imp files at flowwing link
+# Dataset and other imp files present at:
 https://drive.google.com/drive/folders/1O08x78JsvFQecJRlc0_xn8ES6-GAfBGH?usp=sharing
